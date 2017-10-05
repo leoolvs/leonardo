@@ -7,8 +7,88 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-    <h1>oiiin</h1>
-    <p>Make something <strong>amazing</strong> with the web!
-    </p>
+  <header id="cab">
+    <h1>SEXTA CULTURAL</h1>
+    <img src="cefet.png"/>
+
+    
+    <nav class="slidemenu">
+
+      <!-- Item 1 -->
+      <input type="radio" name="slideItem" id="slide-item-1" class="slide-toggle" checked/>
+      <label for="slide-item-1"><p class="icon">♬</p><span>Início</span></label>
+
+      <!-- Item 2 -->
+      <input type="radio" name="slideItem" id="slide-item-2" class="slide-toggle"/>
+      <label for="slide-item-2"><p class="icon">★</p><span>Sobre</span></label>
+
+      <!-- Item 3 -->
+      <input type="radio" name="slideItem" id="slide-item-3" class="slide-toggle"/>
+      <label for="slide-item-3"><p class="icon">✈</p><span>Eventos</span></label>
+
+      <!-- Item 4 -->
+      <input type="radio" name="slideItem" id="slide-item-4" class="slide-toggle"/>
+      <label for="slide-item-4"><p class="icon">✎</p><span>Inscrições</span></label>
+
+      <div class="clear"></div>
+
+      <!-- Bar -->
+      <div class="slider">
+        <div class="bar"></div>
+      </div>
+
+    </nav>
+    
+    
+    
+    
+    
+    
+    </header>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div id="interface">
+    <section id="corpo">
+    <div id="foto">
+      <img src="img-header-cultura.png"/>
+      </div>  
+      
+    <article id="post1">
+    
+    <h1>Última Edição: Rock and roll</h1>
+    <img src="drums.png"/>
+    <p>A última edição da Sexta Cultural do CEFET-MG campus Divinópolis foi marcada por muita música. Os jovens da instituição soltaram a voz ao som de clássicos do Rock brasileiro e internacional. O público foi a loucura com o evento que, por sua vez, teve uma das melhores repercuções dos últimos anos. Sabe-se que a Sexta Cultural com esse tema bateu recorde de participantes, contando mais mais de 100 alunos participantes.</p>
+    </article>
+      
+    <article id="post2">
+    <h1>O que é a Sexta Cultural?</h1>  
+      <p>A Sexta Cultural é um evento realizado pelo CEFET-MG campus Divinópolis e tem como objetivo integrar os alunos de todos os cursos técnicos. A cultura é o principal foco do projeto, permitindo que todos os estudantes mostrem os seus dons artísticos e se relacionem com os demais docentes. O projeto surgiu em 2008 e até hoje é uma das principais fontes de entretenimento da escola.</p>
+      </article>
+      
+    <article id="post3">
+      <h1>Os responsáveis:</h1>
+      <ul>
+      <li>Professor Rodrigo Alves</li>
+        <li>Estudantes de todas as áreas</li>
+      </ul>
+      </article>
+    </section>
+    </div>
+    
+    <footer id="rodape">
+      <p>Copyright &copy; - Todos os direitos reservados - By: Álvaro Teodoro</p>
+    </footer>
+    
+    
+    
+    
   </body>
 </html>
