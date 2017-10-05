@@ -362,4 +362,9 @@ footer#rodape{
 
 
 
-@import url('https://fonts.googleapis.com/css?family=Cinzel+Decorative');
+@import url('https://fonts.googleapis.com/css?family=Cinzel|Cinzel+Decorative|Raleway');
+
+
+font-family: 'Cinzel Decorative', cursive;
+font-family: 'Raleway', sans-serif;
+font-family: 'Cinzel', serif;
