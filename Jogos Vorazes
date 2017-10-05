@@ -358,3 +358,8 @@ footer#rodape{
 .slidemenu #slide-item-3:checked ~ .slider .bar{ margin-left: 50%; }
 .slidemenu #slide-item-4:checked ~ .slider .bar{ margin-left: 75%; }
 
+
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Cinzel+Decorative');
